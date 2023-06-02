@@ -1,5 +1,5 @@
 ## da grid smp
-
+we do minecraft stuff
 <!--
 
 **Here are some ideas to get you started:**
