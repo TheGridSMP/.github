@@ -4,5 +4,6 @@
   </a>
 </p>
 
-
-we do minecraft stuff
+On the surface, this is a minecraft server.
+Behind the curtain- The Grid SMP is a deeply rooted passion project that grows with us.
+Based in the love of adventure and exploration with heavy augmented reality lore layered everywhere.
