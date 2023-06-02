@@ -1,3 +1,5 @@
+<p align="center"><a href="https://thehypersloth.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/135342195" width="20%"></a></p>
+
 ## da grid smp
 we do minecraft stuff
 <!--
